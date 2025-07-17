@@ -13,18 +13,6 @@ Welcome to my **30-day Solana Developer Challenge**, where I dive deep into Sola
 
 ---
 
-## 📅 Daily Progress
-
-| Day | Topic | Folder | Notes |
-|-----|-------|--------|-------|
-| 1 | Rust + Solana CLI Setup | [day01](./day01) | ✅ |
-| 2 | Airdrops & Keypairs | [day02](./day02) | ✅ |
-| 3 | Accounts, Owners | [day03](./day03) | ✅ |
-| ... | ... | ... | ... |
-| 30 | Staking Program | [day30](./day30) | ✅ |
-
----
-
 ## 📦 Final Projects
 
 - ✅ Token Launchpad  
